@@ -1,3 +1,3 @@
 # area_app
 
-Simple app (IFTTT like) with login and sign up to an area_api
+Simple react-native app (IFTTT like) with login and sign up to an area_api
